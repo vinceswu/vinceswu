@@ -7,7 +7,24 @@
 </td>
 <td>
 
+<table height="100%">
+<tr>
+<td valign="top">
+
 <img src="https://count.getloli.com/@vince?name=vince&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+
+<a href="https://www.upwork.com/freelancers/~01d37769b73429a142">
+  <img src="https://img.shields.io/badge/Upwork-HIRE_ME-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
