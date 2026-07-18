@@ -28,4 +28,12 @@
 
 </td>
 </tr>
+
+<tr>
+<td colspan="2">
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinceswu/vinceswu/output/github-contribution-grid-snake.svg" />
+
+</td>
+</tr>
 </table>
