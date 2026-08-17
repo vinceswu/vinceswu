@@ -18,8 +18,8 @@
 <tr>
 <td valign="bottom" align="center">
 
-<a href="https://www.upwork.com/freelancers/~01d37769b73429a142">
-  <img src="https://img.shields.io/badge/Upwork-HIRE_ME-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+<a href="https://contra.com/vinceswu">
+  <img src="https://img.shields.io/badge/Contra-HIRE_ME-000000?style=for-the-badge&logo=contra&logoColor=white"/>
 </a>
 
 </td>
