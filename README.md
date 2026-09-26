@@ -1,39 +1,64 @@
 <table>
 <tr>
+
 <td>
 
-<img align="center" height="1000" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F4gPD1ccxrVgAAAAC%2Frick-ashley-dance.gif&f=1&nofb=1&ipt=89b0ce7cea13a71d675b2d81c4f1ae902adbdfe754b7671de41d8aaa77a23836&ipo=images"/>
+<img
+  align="center"
+  height="1000"
+  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F4gPD1ccxrVgAAAAC%2Frick-ashley-dance.gif&f=1&nofb=1"
+  alt="Rick Astley dancing"
+/>
 
 </td>
-<td>
 
-<table height="100%">
+<td valign="middle">
+
+<table>
+
 <tr>
-<td valign="top">
+<td align="center">
 
-<img src="https://count.getloli.com/@vince?name=vince&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+<img
+  src="https://view-counter.tobyhagan.com/?user=vinceswu&base=0d1117&accent=21262d&text=c9d1d9&flat=true"
+  alt="Profile views"
+/>
 
 </td>
 </tr>
+
 <tr>
-<td valign="bottom" align="center">
+<td height="6"></td>
+</tr>
+
+<tr>
+<td align="center">
 
 <a href="https://contra.com/vinceswu">
-  <img src="https://img.shields.io/badge/Contra-HIRE_ME-000000?style=for-the-badge&logo=contra&logoColor=white"/>
+  <img
+    width="150"
+    src="https://img.shields.io/badge/Contra-HIRE_ME-000000?style=for-the-badge&logo=contra&logoColor=white"
+    alt="Hire me on Contra"
+  />
+</a>
+
+</br>
+</br>
+
+<a href="https://www.upwork.com/freelancers/~01d37769b73429a142">
+  <img
+    width="150"
+    src="https://img.shields.io/badge/Upwork-HIRE_ME-14A800?style=for-the-badge&logo=upwork&logoColor=white"
+    alt="Hire me on Upwork"
+  />
 </a>
 
 </td>
 </tr>
+
 </table>
 
 </td>
-</tr>
 
-<tr>
-<td colspan="2">
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinceswu/vinceswu/output/github-contribution-grid-snake.svg" />
-
-</td>
 </tr>
 </table>
