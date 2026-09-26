@@ -1,4 +1,3 @@
-
 <table>
 <tr>
 
@@ -21,8 +20,8 @@
 <td align="center">
 
 <img
-  src="https://komarev.com/ghpvc/?username=vinceswu&label=PROFILE%20VIEWS&color=21262d&style=flat"
-  alt="Profile views"
+  src="https://komarev.com/ghpvc/?username=vinceswu&label=Views&color=21262d&style=flat"
+  alt="Views"
 />
 
 </td>
@@ -59,6 +58,6 @@
 </table>
 
 </td>
+
 </tr>
 </table>
-```
