@@ -6,7 +6,7 @@
 <img
   align="center"
   height="1000"
-  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F4gPD1ccxrVgAAAAC%2Frick-ashley-dance.gif&f=1&nofb=1"
+  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F4gPD1ccxrVgAAAAC%2Frick-ashley-dance.gif&f=1&nofb=1&ipt=89b0ce7cea13a71d675"
   alt="Rick Astley dancing"
 />
 
@@ -20,7 +20,7 @@
 <td align="center">
 
 <img
-  src="https://view-counter.tobyhagan.com/?user=vinceswu&base=0d1117&accent=21262d&text=c9d1d9&flat=true"
+  src="https://view-counter.tobyhagan.com/?user=vinceswu&base=0d1117&accent=21262d&text=c9d1d9&flat=true&v=1"
   alt="Profile views"
 />
 
@@ -42,8 +42,7 @@
   />
 </a>
 
-</br>
-</br>
+<br>
 
 <a href="https://www.upwork.com/freelancers/~01d37769b73429a142">
   <img
