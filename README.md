@@ -1,3 +1,4 @@
+
 <table>
 <tr>
 
@@ -20,7 +21,7 @@
 <td align="center">
 
 <img
-  src="https://view-counter.tobyhagan.com/?user=vinceswu&base=0d1117&accent=21262d&text=c9d1d9&flat=true&v=1"
+  src="https://komarev.com/ghpvc/?username=vinceswu&label=PROFILE%20VIEWS&color=21262d&style=flat"
   alt="Profile views"
 />
 
@@ -58,6 +59,6 @@
 </table>
 
 </td>
-
 </tr>
 </table>
+```
